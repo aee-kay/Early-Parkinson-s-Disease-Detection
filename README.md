@@ -41,11 +41,11 @@ The project demonstrates the effectiveness of various machine learning models in
 
 ## Contributors
 
-1. Anshul Kumar (21BCS10212)
-2. Akshat Singhal (21BCS10211)
-3. Lakshay Kumar (21BCS10621)
-4. Avish Dharmawat (21BCS6733)
-5. Keshav (21BCS5372)
+1. Anshul Kumar 
+2. Akshat Singhal
+3. Lakshay Kumar 
+4. Avish Dharmawat
+5. Keshav 
 
 ## License
 
